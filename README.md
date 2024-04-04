@@ -1,0 +1,2 @@
+# docs
+Otaikajang's Document
